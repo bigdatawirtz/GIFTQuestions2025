@@ -1,0 +1,28 @@
+De los siguientes estilos aquitectónicos de API, ¿cuál es el más recomendado por el material para entornos empresariales que requieren alta seguridad y transacciones completas?{
+=SOAP.
+~GraphQL.
+~REST.
+~gRPC.
+}
+
+¿Cuál es la característica principal de las APIs REST en relación con el estado del cliente entre solicitudes?{
+~Solo pueden ser con estado si utilizan el método HTTP POST.
+=Son sin estado (stateless), lo que significa que no guardan datos del cliente entre peticiones..
+~Son APIs con estado (stateful), guardando los datos del cliente entre peticiones.
+~Utilizan SOAP para guardar el estado del cliente en el servidor..
+}
+
+El dato de tipo XML (eXtensible Markup Language) se clasifica como{
+~Dato No Estructurado, porque es un documento basado en texto..
+~Dato Transaccional, almacenado en RDBMS.
+~Dato Estructurado, porque sigue reglas de sintaxis fijas.
+=Dato Semi-estructurado, porque tiene un patrón explícito pero no fijo.
+}
+
+
+En el contexto de la arquitectura REST, un recurso se identifica de manera única a través de un concepto clave. ¿Cuál es ese concepto?{
+=URI.
+~Un Código de Estado (Status Code).
+~Un DataFrame de Pandas (Pandas DataFrame).
+~Un Método HTTP (HTTP Method). 
+}
