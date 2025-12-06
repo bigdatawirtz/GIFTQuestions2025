@@ -1,0 +1,20 @@
+Cal dos seguintes datos é máis adecuado para almacenarse nun sistema relacional tradicional?{
+=Datos tabulares con filas e columnas.
+~Imaxes médicas non estruturadas.
+~Publicacións en redes sociais.
+~Vídeos en alta resolución.
+}
+
+Que vantaxe ofrecen os datos semiestruturados dentro dun SIBD?{
+=Permiten flexibilidade cando a estrutura dos datos pode cambiar.
+~Teñen un esquema totalmente ríxido.
+~Só se poden almacenar en bases SQL.
+~Non permiten datos anidados.
+}
+
+Que desafío xorde nun SIBD ao mesturar datos estruturados e non estruturados?{
+=Dificultade para procesar e consultar formatos moi diferentes.
+~Imposibilidade de usar sistemas distribuídos.
+~Obrigación de converter todo a CSV.
+~Perda automática de metadatos.
+}
