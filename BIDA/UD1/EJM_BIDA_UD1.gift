@@ -1,0 +1,27 @@
+¿Cuál es la principal diferencia entre la Escalabilidad Horizontal y la Escalabilidad Vertical en el paradigma Big Data?{
+~La vertical es exclusiva de NoSQL; la horizontal es exclusiva de RDBMS.
+~La horizontal utiliza Replicación, mientras que la vertical utiliza Sharding.
+~La horizontal agrega más potencia a un solo equipo; la vertical agrega más equipos (nodos).
+=La horizontal divide los datos en partes más pequeñas y los procesa en muchas computadoras (nodos); la vertical usa una sola computadora grande y potente.
+}
+
+¿Cuál de las siguientes afirmaciones sobre las Bases de Datos NoSQL es verdadera?{
+=No requieren estructuras fijas tipo tabla, escalan bien horizontalmente y normalmente no soportan JOINS.
+~Escalan mejor verticalmente (más potencia a un solo equipo) y garantizan completamente ACID.
+~Solo pueden trabajar con datos estructurados y son más lentas que las bases de datos relacionales.
+~Utilizan SQL como lenguaje principal de consultas y requieren estructuras fijas tipo tabla.
+}
+
+¿Qué técnica de distribución de datos en bases de datos NoSQL implica la división de los conjuntos de datos en subconjuntos más pequeños (fragmentos) para repartir la carga entre varios nodos?{
+=Sharding
+~Atomicidad
+~Replicación
+~Indexación
+}
+
+En MongoDB, el formato interno y binario que se utiliza para almacenar los documentos de forma eficiente se denomina{
+~CSV
+=BSON
+~XML
+~SQL
+}
